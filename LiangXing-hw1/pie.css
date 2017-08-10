@@ -1,0 +1,33 @@
+h1 {text-align : center;
+    color: #A4A400;
+    font-family: Helvetica;
+    text-decoration: underline;
+    font-size: 22pt;
+    background-color: #F0F0F0}
+h2,h3,h4,h5 {text-align : left;
+    	     color: #A4A400;
+             font-family: Helvetica;
+             text-decoration: underline;
+             font-size: 18pt;
+             background-color: #F0F0F0}
+h6 {text-align : right;
+    font-size: 10pt;
+    background-color: #BFBF56;
+    color: white;
+    line-height: 30px;
+	font-family: italic }
+
+p {padding-left: 50px;
+   font-family: Georgia;
+   font-size: 12pt;}
+a:link {color:  #A4A400;}
+a:visited{color:#A4A400}
+body {padding-left: 50px;
+      padding-right: 50px;
+      background-image: url("silverware.jpg");
+      background-attachment : fixed}
+blockquote {background-color: #FFFFA8;
+            font-family: Georgia;
+            line-height: 30px;
+			text-align : left}/* CSS Document */
+

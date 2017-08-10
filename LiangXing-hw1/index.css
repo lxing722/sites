@@ -1,0 +1,16 @@
+body{ background-image: url("index.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-attachment:fixed;
+background-color:#FFCC33}
+h1{color:white;
+position:absolute;
+top:10%}
+h2{color:white;
+position:absolute;
+top:30%}
+a:link{color:white;
+position:absolute;
+top:40%}
+a:visited{color:white}/* CSS Document */
+

@@ -1,0 +1,290 @@
+* {
+	font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+	color:white;
+}
+html{
+	background-image: url("../images/banner.jpg");
+	background-repeat: no-repeat;
+	background-attachment : fixed;
+}
+#typelist1{
+	float:left;
+	width:300px;
+	height: 700px;
+	margin:20px 20px 0 20px;
+	background-color: rgba(0, 0, 0, 0.21)
+}
+#typelist1 li{
+	height:60px;
+}
+#content1{
+	float:left;
+	width:840px;
+	margin:0 0 0 20px;	
+}
+#add_goods{
+	border:0px;
+	height: 1000px;
+	width: 650px;
+	scrolling:"no";
+	float: left;
+	overflow: hidden;
+	background-color: rgba(0, 0, 0, 0)
+}
+#all{
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	overflow:hidden;
+	
+}
+.all{
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	overflow:hidden;
+	background-color: rgba(0, 0, 0, 0.21);
+}
+.overall{
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	overflow:hidden;
+}
+.goods{
+	float:left;
+	width:800px;
+	margin: 20px 20px 20px 0px;
+	background-color: rgba(0, 0, 0, 0.21)
+}
+.info{
+	float:left;
+	width:380px;
+	height:800px;
+	overflow:hidden;
+	
+}
+.goodsinfo{
+	float:left;
+	width:360px;
+	background-color: rgba(0, 0, 0, 0.21);
+	margin: 20px 0px 20px 20px;
+}
+.userinfo{
+	float:left;
+	width:360px;
+	overflow:hidden;
+	background-color: rgba(0, 0, 0, 0.21);
+	margin: 20px 0px 20px 20px;
+}
+.typelist{
+	float:left;
+	width:1200px;
+	height:50px;
+	background-color: rgba(0, 0, 0, 0.21);
+}
+.content{
+	width:1200px;
+	height:1000px;
+}
+ul {
+	list-style-type : square;
+	color:white;
+}
+.typelist li{
+	float:left;
+	width:190px;
+	height:50px;
+	color:white;
+	font-size:20px;
+}
+.goodsinfo li{
+	height:50px;
+	color:white;
+	
+}
+.userinfo li{
+	height:50px;
+	color:white;
+	
+}
+.goodsinfo li span{
+	text-decoration:underline;
+	font-weight:bold;
+}
+.userinfo li span{
+	text-decoration:underline;
+	color:white;
+	font-weight:bold;	
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+h1{
+	font-size:50px;
+}
+.topbanner{	
+	height:80px;
+	width:100%;
+	color:white;
+	text-align:center;
+}
+.wel{
+	width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    color:white;
+    font-size:50px;
+}
+.home{
+	float:right;
+	margin-right:20px;
+}
+.sign_up{
+	float:right;
+	margin-right:20px;
+}
+.sign_in{
+	float:right;
+	margin-right:20px;
+}
+.hello{
+	float:right;
+	margin-right:20px;
+}
+.mypage{
+	float:right;
+	margin-right:20px;
+}
+
+.tradebox{
+	width:350px;
+	height:auto;
+	overflow:hidden;
+	float:left;	
+	margin: 25px 25px 25px 25px;
+	background-color: rgba(0, 0, 0, 0.21);
+}
+.images{
+	width:350px;
+	height:350px;
+	overflow:hidden;
+	text-align:center;
+}
+.images img{
+	height:350px;
+	width:auto;
+}
+.sta{
+	width:350px;
+    height:30px;
+    overflow:hidden;
+    color:white;
+    margin-left:10px;
+}
+.wts{
+	width:350px;
+    height:30px;
+    overflow:hidden;
+    color:white;
+    margin-left:10px;	
+}
+.date{
+	width:350px;
+    height:30px;
+    overflow:hidden;
+    color:white;
+    margin-left:10px;
+}
+.name{
+	width:350px;
+    height:30px;
+    overflow:hidden;
+    color:white;
+    margin-left:10px;
+}
+.delete{
+	width:350px;
+    height:30px;
+    overflow:hidden;
+    color:white;
+    text-align:center;
+}
+.delete a{
+	text-decoration:underline;
+}
+.big{
+	float:left;
+	width:760px;
+	height:500px;
+	overflow:hidden;
+	margin:20px 20px 20px 20px;
+	background-color: rgba(0, 0, 0, 0.15);
+	text-align:center;
+}
+.big img{
+	height:500px;
+	width:auto;
+}
+.small{
+	float:left;
+	width:226px;
+	height:200px;
+	overflow:hidden;
+	margin:0px 20px 20px 20px;
+}
+.small img{
+	height:200px;
+	
+}
+.message{
+	float:left;
+	width:760px;
+	margin:0px 20px 20px 20px;
+	border:0px;
+	color:white;
+	word-wrap: break-word;
+}
+.del{
+	width:30px;
+	height:30px;
+	background-color: rgba(0, 0, 0, 0.15);
+}
+dd{
+	padding-left: 20pt;
+}
+dt{
+	font-weight:bold;
+}
+#content{
+	width:400px;
+	height:100px;
+	margin-top:100px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: rgba(0, 0, 0, 0.15);
+	text-align:center;
+	color:white;
+}
+#msgs{
+	float:right;
+	margin-right:20px;
+}
+#msgs img{
+	width:30px;
+	height:15px;
+	margin-top:5px;
+}
+#error{
+	padding-top:20px;
+}
+.button{
+    width:50px;
+    height:25px;
+    font-size:16px;
+    color:white;
+    margin-top:10px;
+    background-color: rgba(0, 0, 0, 0);
+}

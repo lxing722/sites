@@ -1,0 +1,143 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+    color:white;
+}
+body{
+	background-image: url("../images/banner.jpg");
+	background-repeat: no-repeat;
+	background-attachment : fixed;
+}
+div.form_style{
+	background-color: rgba(0, 0, 0, 0.21);
+	margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+form.form_style div {
+	text-align: center;
+	font-size: 150%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+form.form_style label {
+    width:220px;
+    float:left;  
+    line-height:35px;
+    font-size:20px;
+    color:white;
+    padding-left:15px;
+}
+
+form.form_style > input {
+    width:300px;
+    margin-bottom:5px;
+    margin-top:5px;
+    line-height:30px;
+    padding:5px 10px;  
+    border:1px solid #CCC;
+    background-color: rgba(0, 0, 0, 0);
+    color:white;
+    font-size:20px;
+}
+div.form_style_1{
+    background-color: rgba(0, 0, 0, 0.21);
+    float:left;
+    margin-left: 20px;
+    margin-top:20px;
+    width: 600px;
+}
+form.form_style_1 div {
+    text-align: center;
+    font-size: 150%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+form.form_style_1 label {
+    width:220px;
+    float:left;  
+    line-height:35px;
+    font-size:20px;
+    color:white;
+    padding-left:15px;
+}
+form.form_style_1 textarea {
+    background-color: rgba(0, 0, 0, 0);
+    color:white;
+    font-size:20px;
+}
+form.form_style_1 input {
+    width:300px;
+    margin-bottom:5px;
+    margin-top:5px;
+    line-height:30px;
+    padding:5px 10px;  
+    border:1px solid #CCC;
+    background-color: rgba(0, 0, 0, 0);
+    color:white;
+    font-size:20px;
+}
+.submit {
+	text-align: center;	
+    margin-bottom:10px;
+}
+#submit{
+    width:100px;
+    height:50px;
+    font-size:20px;
+    color:white;
+    background-color: rgba(0, 0, 0, 0);
+}
+.button{
+    width:100px;
+    height:50px;
+    font-size:20px;
+    color:white;
+    background-color: rgba(0, 0, 0, 0);
+}
+.welcome{
+    width:600px;
+    height:80px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size:35px;
+    color:white;
+}
+.info{
+    width:600px;
+    height:80px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size:35px;
+    color:white;
+}
+select{
+    width:325px;
+    height:43px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background-color: rgba(0, 0, 0, 0);
+    color:white;
+    font-size:20px;
+}
+#headimg{
+    float:left;
+    overflow:hidden;
+    margin-top:5px;
+}
+#headimg img{
+    height:50px;
+    width:50px;
+}
+#headimage{
+    height:60px;
+    width:600px;
+}
+#headimage label{
+    text-align:left;
+}
+a{
+    font-size:20px;
+    color:white;
+}
